@@ -20,7 +20,7 @@
 1. **Clone this repo** into your local machine:
 
    ```bash
-   
+   git clone https://github.com/BU-Spark-Learning-Ambassadors/DataPrepVisualization_LevelTwo.git
    ```
    
 # Instructions
